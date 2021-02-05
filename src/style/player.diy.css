@@ -1,0 +1,10 @@
+.rhap_controls-section{
+    width: 190px!important;
+    flex: none!important;
+}
+.rhap_additional-controls{
+    flex: none!important;
+}
+.rhap_horizontal-reverse .rhap_controls-section {
+    margin-right: 25px!important;
+}

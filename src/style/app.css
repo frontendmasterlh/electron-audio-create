@@ -1,0 +1,22 @@
+.pb5{
+    padding-bottom: 5px;
+}
+.pt5{
+    padding-top: 5px;
+}
+
+.anchor-items:hover,
+.anchor-items-active{
+    background: #eeeaea;
+}
+
+.ant-card-body{
+    padding: 10px!important;
+}
+.ant-divider-horizontal{
+    margin: 10px 0!important;
+}
+.ant-collapse-content > .ant-collapse-content-box{
+    max-height: 621px!important;
+    overflow-y: auto!important;
+}
