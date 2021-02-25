@@ -1,5 +1,5 @@
 # 这是一个使用 React + Electron 开发的 AI 配音软件
-> create-react-app electron
+> 技术栈 create-react-app electron
 
 
 ## 其他开源项目
