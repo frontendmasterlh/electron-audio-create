@@ -37,10 +37,10 @@ npm run start
 # react打包页面
 npm run build
 
-# 打包之前
+# electron打包之前
 npm run pack
 
-# 正式打包
+# electron正式打包
 npm run dist
 ```
 
